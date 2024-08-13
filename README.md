@@ -29,6 +29,4 @@
 ### ⚡ Fun fact
 - I’m the President of the Sufism Club at Al Akhawayn University, where I lead initiatives and manage events related to spiritual and philosophical discussions.
 
-MohammedISMAILI/MohammedISMAILI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
