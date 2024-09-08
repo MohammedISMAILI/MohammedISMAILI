@@ -1,23 +1,22 @@
 ## 👋 Hi, I’m Mohammed ISMAILI
 
 ### 👀 I’m interested in
-- Artificial Intelligence and Machine Learning
-- Software Engineering
-- Data Science and Analytics
-- Computational Mathematics
-- Open Source Projects
+ - Artificial Intelligence (AI) and Machine Learning (ML)
+ - Software Engineering and scalable solutions
+ - Data Science and Analytics
+ - Computational Mathematics and its applications
+ - Open Source Projects and collaboration
 
 ### 🌱 I’m currently learning
-- Cutting-edge technologies in AI and Machine Learning
-- Best practices in Software Engineering
-- Advanced concepts in Computer Science and Engineering
-- Statistical methods and data-driven decision-making
-
+- Exploring advanced AI/ML techniques and their real-world applications
+- Diving into best practices in Software Engineering and agile development
+- Mastering advanced computer science concepts, including algorithms, data structures, and distributed systems
+- Data-driven decision making and statistical methodologies for effective problem-solving
 ### 💞️ I’m looking to collaborate on
-- AI and Machine Learning projects
-- Open Source contributions
-- Innovative software development projects
-- Data Science research and applications
+- Contributing to AI/ML projects with a focus on innovation and impact
+- Engaging in Open Source projects to create and improve community-driven tools
+- Building software development projects that solve real-world challenges
+- Participating in Data Science research and applied analytics initiatives
 
 ### 📫 How to reach me
 - Email: [Email](mailto:mohammedismaili.2004@gmail.com)
