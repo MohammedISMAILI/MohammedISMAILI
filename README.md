@@ -25,7 +25,4 @@
 ### 😄 Pronouns
 - He/Him
 
-### ⚡ Fun fact
-- I’m the President of the Sufism Club at Al Akhawayn University, where I lead initiatives and manage events related to spiritual and philosophical discussions.
-
 
