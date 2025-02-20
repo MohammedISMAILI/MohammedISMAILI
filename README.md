@@ -22,7 +22,5 @@
 - Email: [Email](mailto:mohammedismaili.2004@gmail.com)
 - LinkedIn: [Mohammed ISMAILI](https://www.linkedin.com/in/mohammed-ismaili-718b63256/)
 
-### 😄 Pronouns
-- He/Him
 
 
